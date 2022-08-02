@@ -1,0 +1,142 @@
+[
+    {
+        "type": "Italia",
+        "description": "Coliseo",
+        "price": 1200,
+        "available": true,
+        "source": "images/coliseo.jpg"
+    },
+    {
+        "type": "Italia",
+        "description": "Foro palatino",
+        "price": 1600,
+        "available": true,
+        "source": "images/foro.jpg"
+    },
+    {
+        "type": "Italia",
+        "description": "Milan",
+        "price": 990,
+        "available": true,
+        "source": "images/milan.jpg"
+    },
+    {
+        "type": "Italia",
+        "description": "roma",
+        "price": 1200,
+        "available": true,
+        "source": "images/roma.jpg"
+    },
+    {
+        "type": "Italia",
+        "description": "Florencia",
+        "price": 1650,
+        "available": true,
+        "source": "images/florencia.jpg"
+    },
+    {
+        "type": "Austria",
+        "description": "Hallstatt",
+        "price": 1350,
+        "available": true,
+        "source": "images/austria_hallstatt.jpg"
+    },
+    {
+        "type": "Austria",
+        "description": "Innsbruck",
+        "price": 1650,
+        "available": false,
+        "source": "images/austria_innsbruck.jpg"
+    },
+    {
+        "type": "Austria",
+        "description": "Steyr",
+        "price": 1400,
+        "available": true,
+        "source": "images/austria_steyr.jpg"
+    },
+    {
+        "type": "Austria",
+        "description": "Hofburg",
+        "price": 1400,
+        "available": true,
+        "source": "images/austria_palacio.jpg"
+    },
+    {
+        "type": "Austria",
+        "description": "Viena",
+        "price": 1650,
+        "available": true,
+        "source": "images/austria_viena.jpg"
+    },
+    {
+        "type": "Alemania",
+        "description": "Oberbaumbrücke",
+        "price": 790,
+        "available": true,
+        "source": "images/berlin.jpg"
+    },
+    {
+        "type": "Alemania",
+        "description": "Alexanderplatz",
+        "price": 500,
+        "available": true,
+        "source": "images/berlin_alexanderplatz.jpg"
+    },
+    {
+        "type": "Alemania",
+        "description": "Charlottenburg",
+        "price": 520,
+        "available": true,
+        "source": "images/berlin_charlottenburg.jpg"
+    },
+    {
+        "type": "Alemania",
+        "description": "Cupula",
+        "price": 590,
+        "available": true,
+        "source": "images/berlin_cupula.jpg"
+    },
+    {
+        "type": "Alemania",
+        "description": "Wall",
+        "price": 560,
+        "available": false,
+        "source": "images/berlin_muro.jpg"
+    },
+    {
+        "type": "Czech",
+        "description": "Cesky Krumlov",
+        "price": 210,
+        "available": true,
+        "source": "images/czech_cesky.jpg"
+    },
+    {
+        "type": "Czech",
+        "description": "Karlovy Vary",
+        "price": 400,
+        "available": true,
+        "source": "images/czech_karlovy.jpg"
+    },
+    {
+        "type": "Czech",
+        "description": "Praga",
+        "price": 560,
+        "available": false,
+        "source": "images/czech_praga.jpg"
+    },
+    {
+        "type": "Czech",
+        "description": "Castillo Praga",
+        "price": 1100,
+        "available": true,
+        "source": "images/czech_pragaaa.jpg"
+    },
+    {
+        "type": "Czech",
+        "description": "Rio Moldava",
+        "price": 900,
+        "available": true,
+        "source": "images/czech_pragaa.jpg"
+    }
+]
