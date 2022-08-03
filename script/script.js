@@ -86,7 +86,7 @@ function takeUserData() {
 function updateOrder(clean) {
     if (clean === "clean") {orderList.innerHTML = ""};
     order = [];
-    form.innerHTML = '<input type="hidden" name="_next" value="#"><input type="hidden" name="_captcha" value="false">'; 
+    form.innerHTML = '<input type="hidden" name="_next" value="https://fedenh3.github.io/ "><input type="hidden" name="_captcha" value="false">'; 
     let listItems = document.querySelectorAll(".list-group-item");
     let prices = [];
     listItems.forEach((el, index) => {
